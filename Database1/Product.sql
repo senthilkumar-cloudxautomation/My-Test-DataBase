@@ -3,5 +3,6 @@
 	[Id] INT NOT NULL PRIMARY KEY, 
     [Name] NVARCHAR(50) NULL, 
     [Cost] INT NULL, 
-    [Date] INT NULL
+    [Date] INT NULL, 
+    [Time] TIME NULL
 )
