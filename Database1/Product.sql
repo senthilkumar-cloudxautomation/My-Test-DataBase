@@ -5,5 +5,6 @@
     [Cost] INT NULL, 
     [Date] INT NULL, 
     [Time] TIME NULL, 
-    [Weight] INT NULL
+    [Weight] INT NULL, 
+    [Ticket] NCHAR(10) NULL
 )
