@@ -4,5 +4,6 @@
     [Name] NVARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Date] INT NULL, 
-    [Time] TIME NULL
+    [Time] TIME NULL, 
+    [Weight] INT NULL
 )
